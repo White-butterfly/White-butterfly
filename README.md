@@ -1,6 +1,6 @@
 
 
-# Hi there 👋, I'm Muna Ahmed Farah
+# Hi there 👋, I'm Muna Ahmed Faarah
 
 ### 🚀 Software Developer | 📊 Data Analyst | 💡 Problem Solver
 
@@ -8,7 +8,7 @@ I am a passionate Software Developer and Data Analyst with over 5 years of exper
 
 I enjoy transforming complex problems into simple, efficient, and scalable solutions. Beyond software development, I am passionate about data-driven decision-making, technology education, and building innovative solutions that create positive social impact.
 
-🌍 Based in Laascaanood, Somalia
+🌍 Based in Nairobi, Kenya
 
 💻 Full Stack Development (MERN Stack & Next.js)
 
